@@ -1,15 +1,64 @@
-# Hi there, I'm Saumya Ambar! 👋
+# Hi, I'm Saumya Ambar 👋
 
-### 🎓 About Me
-- **Branch:** Computer Science and Engineering
-- **Current Year:** 1st Year
-- **Academic Focus:** Exploring the foundations of software development and problem-solving.
-
-### 🚀 My Goal
-I am passionate about technology and hope to learn how Artificial Intelligence and Machine Learning can be used to solve real-world problems and build intelligent systems.
-
-### 🛠️ Languages and Tools
-- Currently learning: Java, Python, Data Structures, Langchain and LangGraph.
+### 🎓 B.Tech CSE (Core) Student | 1st Year  
+### 💻 Exploring Software Development, Networking & ML  
+### 🚀 Improving problem solving skills and building real-world projects  
 
 ---
-*“The best way to predict the future is to invent it.”*
+
+## 👩‍💻 About Me
+
+### A passionate learner focused on building real-world solutions while improving problem-solving skills and understanding core concepts in programming and networking.
+
+---
+
+## 🛠️ Skills
+
+### • Python  
+### • Java  
+### • Data Structures & Problem Solving  
+### • Networking Basics 
+### • Machine Learning Fundamentals
+
+---
+
+## 🚀 Projects 
+
+## 📊 Breast Cancer Classification using ML  
+### • Preprocessed and visualized dataset  
+### • Built SVM model for classification  
+### • Predicted malignant vs benign tumors  
+### • Evaluated using accuracy and precision  
+
+## 📈 Student Performance Risk Prediction System  
+### • Tracks student data for risk analysis  
+### • Built Logistic Regression model  
+### • Predicts at-risk students  
+### • Menu-driven system for easy use  
+
+---
+
+## 🎯 Current Focus
+
+### • Problem Solving and Data Structure  
+### • Building more real-world projects  
+### • Exploring Artificial Intelligence and Machine Learning  
+
+---
+
+## 📬 Connect
+
+### • LinkedIn: https://www.linkedin.com/in/saumya-ambar-5b70b2366/
+
+---
+
+### ⭐ Learning consistently. Building confidently.
+
+---
+
+
+
+
+
+
+
